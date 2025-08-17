@@ -3,3 +3,6 @@ Https://youtube.com
 Https://orteil.dashnet.org/cookieclicker/
 Https://bing.com
 Https://discord.com
+chrome://diagnostics
+chrome://help-app
+chrome://file-maneger
